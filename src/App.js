@@ -13,7 +13,7 @@ export default function App() {
       <title>Amongus</title>
       <header className="App-header">
         <nav className="nav-flex" aria-label="primary-navigation">
-            <img src={logo}  className="App-logo" alt="Eric's Logo" tabindex="-1"/>
+            {/* <img src={logo}  className="App-logo" alt="Eric's Logo" tabindex="-1"/> */}
             <div className="flex-row">
                 <a className="link" href="#projects">projects</a>
                 <a className="link" href="#experience">experience</a>
